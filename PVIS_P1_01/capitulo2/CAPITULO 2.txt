@@ -1,0 +1,41 @@
+¿Cuál es el valor numérico de cada una de las siguientes expresiones evaluadas por Java?
+a. 3 + 7 * 2= 17
+b. 18 / 3 + 4= 10
+c. 9 / 3 + 12 / 4= 6
+d. 15 / 2=  7.5
+e. 14 / 3 = 4.66666
+f. 29 / 10 = 2.9
+g. 14 % 2 = 0
+h. 15 % 2= .5
+i. 31 % 7= .4285
+j. 6 % 4 + 1= 1.5
+k. (5 + 6) * 3 = 33
+l. 25 / (3 + 2)=  5
+m. 13 % 15 = .86666666
+
+¿Cuál es el valor de cada una de las siguientes expresiones booleana?
+a. 5 < 8= VERDADERO
+b. 4 <= 9= VERDADERO
+c. 3 == 4= FALSO
+d. 12 >= 12= FALSO
+e. 3 + 4 == 8=FALSO
+f. 7 < 9 – 2FALSO
+g. 5 != 5=VERDADERO
+h. 15 != 3 * 5= VERDADERO
+i. 9 != –9= FALSO
+j. 3 + 5 * 2 == 16
+
+Elija el mejor tipo de datos para cada uno de los siguientes para que cualquier valor razonable sea 
+acomodado pero no se desperdicie el almacenamiento de memoria. Dé un ejemplo de un valor típico 
+que sería sostenido por la variable, y explique porqué usted eligió el tipo que usted hizo.
+
+a. El número de hermanos que tiene= INT 
+b. Su grado final en esta clase= FLOAT
+c. La población de la tierra = DOUBLE
+d. La población de un condado de Estados Unidos=BYTE 
+e. El número de pasajeros en un autobús = INT
+f. Puntuación de un jugador en un juego de Scrabble=FLOAT 
+g. Un equipo de puntuación en una gran liga 
+Juego de béisbol = DOUBLE
+h. El año un acontecimiento histórico ocurrió= BYTE 
+i. El número de piernas en un animal= INT

@@ -1,0 +1,25 @@
+
+Suponga que ha creado un programa con sólo las siguientes variables: 
+int v = 4; 
+int w = 6; 
+Double x = 2,2;
+Suponga que también tiene un método con el siguiente encabezado: 
+Public estático void Calculate (int x, Double y) 
+¿cuál de las siguientes llamadas de método son legales? 
+a. Calcule (v, w); =legal
+b. Calcule (v, x); =legal
+c. Calcule (x, y); =ilegal
+d. Calcule (18, x);=ilegal 
+e. Calcule (1.1, 2,2); =ilegal
+f. Calcule (5, 7);=legal
+Suponga que una clase denominada ClassA contiene un entero no estático privado denominado b, un entero 
+público no estático llamado c y un entero estático público llamado d. ¿Cuál de los siguientes 
+son los Estados de cuenta legales en una clase denominada ClassB que ha instanciado un objeto 
+como ClassA obA = nueva clasea ();? 
+a. obA. b = 12; =legal
+b. obA. c = 5; =legal
+c. obA. d = 23; =ilegal
+d. ClassA. b = 4; =ilegal
+e. ClassA. c = 33; =ilegal
+f. ClassA. d = 99; =legal
+
